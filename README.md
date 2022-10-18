@@ -52,6 +52,8 @@ Scenario 8: Verify the displayed error message when user search for not exist Co
 2- Make E2E scenarios for a whole flow. <br />
 3- integrate the test cases with ci cd pipeline. <br />
 
+
 ### Proof of success
 
-![](../Screen Shot 2022-10-18 at 8.58.28 PM.png)
+<img width="946" alt="Screen Shot 2022-10-18 at 8 58 28 PM" src="https://user-images.githubusercontent.com/85589242/196500314-a6b05856-4190-4a94-9c08-3079d6e53b0d.png">
+
