@@ -1,0 +1,26 @@
+
+{
+  "validCharacterPayload": {
+    "firstName": "Alaa",
+    "lastName": "Ismail",
+    "fullName": "Alaa Ismail",
+    "title": "Testing",
+    "family": "Hassaan",
+    "image": "daenerys.jpg",
+    "imageUrl": "https://thronesapi.com/assets/images/daenerys.jpg"
+
+  },
+
+
+  "InvalidCharacterPayload": {
+    "firstName": 12334,
+    "lastName": "Ismail",
+    "fullName": "Alaa Ismail",
+    "title": "Testing",
+    "family": "Hassaan",
+    "image": "daenerys.jpg",
+    "imageUrl": "https://thronesapi.com/assets/images/daenerys.jpg"
+
+  }
+}
+
