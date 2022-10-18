@@ -32,7 +32,7 @@
 ---
 
 
-###Task 2:
+### Task 2:
 
 #### Picked Movies (Game Of Thrones) apis, Add character, Get all listed characters and Get specific character by ID. 
 
@@ -57,3 +57,8 @@ Scenario 8: Verify the displayed error message when user search for not exist Co
 
 <img width="946" alt="Screen Shot 2022-10-18 at 8 58 28 PM" src="https://user-images.githubusercontent.com/85589242/196500314-a6b05856-4190-4a94-9c08-3079d6e53b0d.png">
 
+
+### How to start
+1- git clone `https://github.com/AalaaIsmaeel/api_automation.git` <br />
+2- install dependancies with `npm install` <br />
+3- run `npx cypress open` <br />
